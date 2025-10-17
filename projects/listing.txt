@@ -1,0 +1,15 @@
+.
+./notes
+./notes/day2.txt
+./notes/backup
+./notes/count.txt
+./notes/day3.txt
+./notes/.secret.txt
+./notes/summary.txt
+./notes/day1.txt
+./listing.txt
+./projects
+./projects/week1_project
+./projects/week1_project/main.sh
+./projects/week1_project/readme.md
+./hello.txt
